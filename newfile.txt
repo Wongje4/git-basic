@@ -2,3 +2,5 @@
 'add' : add a change in the working directory to the staging area
 'commit' : capture a snapshot of the local repository's currently staged changes
 'push' : push the local commits to GitHub
+
+~Update newfile.txt and push the changes to GitHub
