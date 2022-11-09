@@ -4,3 +4,4 @@
 'push' : push the local commits to GitHub
 
 ~Update newfile.txt and push the changes to GitHub
+~Open the repository on GitHub and make changes to newfile.txt
